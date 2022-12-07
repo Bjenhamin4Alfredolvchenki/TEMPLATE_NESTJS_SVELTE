@@ -6356,10 +6356,10 @@ supports-hyperlinks@^2.0.0:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
 
-svelte@^3.23.2:
-  version "3.23.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.2.tgz#f3e500384261a2e77b29681ee744c3c790fbcdc3"
-  integrity sha512-hE8GeTM83YVR4GY6/6PeDEcGct4JS5aCi+IYbCAa76oaPSfuF7L85DQYULQxlTK/KPWzw3L1GRGmC3oPG/PQoA==
+svelte@^3.54.0:
+  version "3.54.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.54.0.tgz#b4bcd865bd9e927f9f7b76563288ef5f4d72867a"
+  integrity sha512-tdrgeJU0hob0ZWAMoKXkhcxXA7dpTg6lZGxUeko5YqvPdJBiyRspGsCwV27kIrbrqPP2WUoSV9ca0gnLlw8YzQ==
 
 symbol-observable@1.2.0:
   version "1.2.0"
